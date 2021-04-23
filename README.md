@@ -1,8 +1,8 @@
 # Template for code katas
 
-## SETUP
+Requires git, bash, curl and docker installed
 
-Requires docker installed
+## SETUP
 
 - `curl -s "https://get.sdkman.io" | bash && source "$HOME/.sdkman/bin/sdkman-init.sh"`
 - `sdk install java 16.0.0.hs-adpt`
