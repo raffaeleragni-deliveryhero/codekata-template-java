@@ -11,7 +11,7 @@ Requires docker installed
 
 ## Checkout and build
 
-- `git clone git@github.com:raffaeleragni-deliveryhero/codekata-template-javia.git && cd codekata-template-java`
+- `git clone git@github.com:raffaeleragni-deliveryhero/codekata-template-java.git && cd codekata-template-java`
 - `./mwnw clean install sonar:sonar`
 - `xdg-open http://localhost:9000`
 
